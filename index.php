@@ -6,6 +6,14 @@
     <title>Egi Patwa</title>
 </head>
 <body>
-    
+    <h1>FORM LOGIN</h1>
+    <form action="" method="post">
+        <ul>
+            <li>halo</li>
+        </ul>
+        <ul>
+            <li></li>
+        </ul>
+    </form>
 </body>
 </html>

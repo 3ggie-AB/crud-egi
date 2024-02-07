@@ -15,5 +15,6 @@
             <li></li>
         </ul>
     </form>
+    <a href="login.php">login</a>
 </body>
 </html>
